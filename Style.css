@@ -1,0 +1,305 @@
+.html{
+    font-family: 'Segoe UI';
+}
+@font-face {
+    font-family: 'Nazanin';
+    src: url('Nazanin.ttf');
+}
+.div1{
+    font-family: Nazanin;
+    text-align: left;
+    background-color: #eead16;
+    height: 65px;
+    width: 1122px;
+    margin-left: 200px;
+    margin-top: 0px;
+    border-radius: 45px;
+    padding: 12px;
+    position: fixed;
+}
+.div2{
+    font-family: Nazanin;
+    text-align: left;
+    background-color: #0066ff;
+    height: 40px;
+    width: 190px;
+    border-radius: 45px;
+    margin-left: 3px;
+    position: fixed;
+    color: white;
+    /* font-size: 21px; */
+}
+div:focus{
+    width: 290px;
+
+}
+span{
+    font-size: 22px;
+    margin-left: 110px;
+}
+.search{
+    margin-right: 400px;
+}
+input{
+    /* margin-top: 2px; */
+    /* margin-left: 22px; */
+    background-color: #36383b;
+    border: 1px #36383b;
+    color: white;
+    text-align:center;
+    border-radius: 45px;
+    height: 40px;
+    position: fixed;
+    width: 150px;
+}
+input:focus{
+    outline:none;
+    text-align: right;
+    width: 290px;
+    position: fixed;
+    transition: 0.5s;
+}
+input:focus{
+    outline:none;
+    text-align: right;
+    width: 290px;
+    position: fixed;
+    transition: 0.5s;
+}
+::placeholder{
+    color: white;
+    text-align: right;
+}
+.btn2{
+    /* margin-left: 5px; */
+    margin-bottom: 70px;
+    background-color: #36383b;
+    border: 1px #36383b;
+    color: white;
+    text-align:center;
+    border-radius: 45px;
+    height: 40px;
+    width: 40px;
+    /* margin-top: 0px; */
+}
+.btn3{
+    margin-bottom: 70px;
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: #eead16;
+    text-align:center;
+    border-radius: 45px;
+    height: 28px;
+    width: 28px;
+}
+.btn3{
+    margin-bottom: 70px;
+    background-color: #36383b;
+    border: 1px #36383b;
+    color: white;
+    text-align:center;
+    border-radius: 45px;
+    height: 28px;
+    width: 28px;
+}
+/*  */
+.btn4{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 120px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 940px;
+    font-size: 20px;
+}
+.btn4:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn4:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn5{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 80px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 850px;
+    font-size: 20px;
+}
+.btn5:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn5:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn6{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 80px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 750px;
+    font-size: 20px;
+}
+.btn6:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn6:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn7{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 90px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 650px;
+    font-size: 20px;
+}
+.btn7:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn7:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn8{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 55px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 580px;
+    font-size: 20px;
+}
+.btn8:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn8:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn9{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 80px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 488px;
+    font-size: 20px;
+}
+.btn9:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn9:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn10{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 90px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 388px;
+    font-size: 20px;
+}
+.btn10:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn10:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+.btn11{
+    background-color: #eead16;
+    border: 1px #eead16;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 45px;
+    height: 40px;
+    width: 120px;
+    direction: ltr;
+    position: fixed;
+    margin-left: 258px;
+    font-size: 20px;
+}
+.btn11:hover{
+    background-color: #36383b;
+    color: white;
+    transition: 0.3s;
+    position: fixed;
+}
+.btn11:focus{
+    background-color: #36383b;
+    color: white;
+    position: fixed;
+}
+option{
+    /* background-color:#36383b; */
+    /* padding: 300px; */
+}
+@font-face {
+    font-family: 'IRANSans';
+    src: url('IRANSans.ttf');
+}
