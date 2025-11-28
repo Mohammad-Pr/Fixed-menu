@@ -302,4 +302,34 @@ option{
 @font-face {
     font-family: 'IRANSans';
     src: url('IRANSans.ttf');
+
+}
+@media (max-width:989px) {
+    .div1,.div2,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7,.btn8,.btn9,.btn10,.btn11{
+        display: none;
+    }
+}
+@media (min-width: 989px) {
+    .div1,.div2,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7,.btn8,.btn9,.btn10,.btn11{
+        display: inline-block;
+        /* text-align: center; */
+    }
+}
+@media (min-width: 989px) {
+    div,nav{
+        display: none;
+    }
+}
+.navbar-brand{
+    color: #36383b;
+}
+.container-fluid{
+    background-color: #eead16;
+}
+.active,.nav-link,.dropdown-toggle,.dropdown-item{
+color: #eead16;
+}
+
+.offcanvas-body{
+    background-color: #36383b;
 }
