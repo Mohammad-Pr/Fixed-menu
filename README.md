@@ -6,7 +6,7 @@
 <p>✔ Input in motion</p>
 <p>✔ Fully responsive</p>
 <p>⚠️ In mobile mode, it transforms into a completely beautiful and attractive hamburger menu.</p>
-<p⛔ And in non-mobile mode to the fixed menu</p>
+<p>⛔ And in non-mobile mode to the fixed menu </p>
 <p>🖤💛</p>
 
 # ⚙ :
